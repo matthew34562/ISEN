@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
 
     if not solved:
-        print("MESSAGE 5") # Did not reach the end.
+        print("You have failed to escape.") # Did not reach the end.
 
 
     GridViewer.view(grid)
